@@ -1,0 +1,22 @@
+Wed Jun 30 16:14:57 2021  TrayApp.main()
+Wed Jun 30 16:14:57 2021 going to enter main UI event loop...
+Wed Jun 30 16:14:57 2021 icon state='disconnected' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-disconnected.ico'
+Wed Jun 30 16:14:57 2021 icon state='connecting' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-connecting.ico'
+Wed Jun 30 16:14:57 2021 icon state='connected' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-connected.ico'
+Wed Jun 30 16:14:57 2021 icon state='GET_CONFIG' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-get-config.ico'
+Wed Jun 30 16:14:57 2021 icon state='TCP_CONNECT' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-tcp-connect.ico'
+Wed Jun 30 16:14:57 2021 icon state='RESOLVE' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-resolve.ico'
+Wed Jun 30 16:14:57 2021 icon state='RSA_SIGN' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-rsa-sign.ico'
+Wed Jun 30 16:14:57 2021 icon state='ADD_ROUTES' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-add-routes.ico'
+Wed Jun 30 16:14:57 2021 icon state='ASSIGN_IP' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-assign-ip.ico'
+Wed Jun 30 16:14:57 2021 icon state='RECONNECTING' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-reconnecting.ico'
+Wed Jun 30 16:14:57 2021 icon state='AUTH' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-auth.ico'
+Wed Jun 30 16:14:57 2021 icon state='WAIT' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-wait.ico'
+Wed Jun 30 16:14:57 2021 trying to load DLL: C:\Program Files (x86)\OpenVPN Technologies\OpenVPN Client\core\ovpntray.dll
+Wed Jun 30 16:14:57 2021 loaded resource DLL: 1886781440
+Wed Jun 30 16:14:57 2021 run_client()
+Wed Jun 30 16:14:57 2021 TrackActiveProfiles sid='sess_TrackActiveProfiles_IGQubbNIPzLbbFlL_3'
+Wed Jun 30 16:14:57 2021 checking if there are any updates...
+Wed Jun 30 16:14:57 2021 no update available
+Wed Jun 30 16:14:57 2021 >>>> {'timestamp': 1625053497, 'state': 'add_profile', 'profile_id': 'anguilla_network_isp_com_dynamic_p1780', 'type': 'PROFILE'}
+Wed Jun 30 16:14:57 2021 **** ADD PROFILE anguilla_network_isp_com_dynamic_p1780
